@@ -7,8 +7,11 @@ Currently my favourite language is [go](https://golang.org/), I'm pretty decent 
 
 If you want to reach me to work with me, send me an email [here](mailto:4thel00z@gmail.com?subject=[GitHub]).
 
-My stats:
-
 <a href="http://gendos.site">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4thel00z&theme=radical" />
 </a>
+
+<a href="http://gendos.site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact" />
+</a>
+
