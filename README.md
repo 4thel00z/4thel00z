@@ -18,3 +18,8 @@ Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact" />
 </a>
 
+<a href="http://ransomware.host">
+  <img align="center" src="https://ransomware.host/hacker.png"/>
+</a>
+
+
