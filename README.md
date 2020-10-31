@@ -1,6 +1,6 @@
 ### Hi there, I'm ransomware 👋
 
-![Some hägger](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
+![Some hägger](https://ransomware.host/hacker.webp)
 
 I [hägg](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
 Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well.
