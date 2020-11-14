@@ -1,4 +1,12 @@
-### Hi there, I'm ransomware 👋
+<h3 align="center">
+Hi there, I'm ransomware 👋
+</h3>
+
+<p align="center">
+    <a href="https://4thel00z.dev/">Personal Blog</a> &mdash;
+    <a href="https://ransomware.host">Personal Domain</a> &mdash;
+    <a href="https://twitter.com/_ransomware">Twitter</a>
+</p>
 
 ![Some hägger](https://ransomware.host/hacker.webp)
 
@@ -17,4 +25,7 @@ Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E
 <a href="http://gendos.site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact" />
 </a>
+
+<h1 align="center">Project Sinensis</h1>
+
 
