@@ -11,6 +11,10 @@ Hi there, I'm ransomware 👋
 <img align="left" src="https://ransomware.host/hacker.webp" />
 <img align="right" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
 
+<br>
+<br>
+<br>
+
 I [hägg](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
 Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well.
 
