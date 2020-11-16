@@ -12,8 +12,6 @@ Hi there, I'm ransomware 👋
 <br>
 <img align="left" src="https://ransomware.host/hacker.webp" />
 <img align="center" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
-
-<br>
 <br>
 <br>
 
