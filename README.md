@@ -9,7 +9,7 @@ Hi there, I'm ransomware 👋
 </p>
 
 <img align="left" src="https://ransomware.host/hacker.webp" />
-<img align="right" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
+<img align="center" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
 
 <br>
 <br>
