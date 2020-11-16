@@ -9,6 +9,7 @@ Hi there, I'm ransomware 👋
 </p>
 
 <img align="center" src="https://ransomware.host/hacker.webp" />
+<img align="center" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
 
 I [hägg](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
 Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well.
