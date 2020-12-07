@@ -2,6 +2,7 @@
 Hi there, I'm ransomware 👋
 </h3>
 
+I like to drink [☕ ](https://www.buymeacoffee.com/4thel00z) a lot :-).
 <p align="center">
     <a href="https://4thel00z.dev/">Personal Blog</a> &mdash;
     <a href="https://ransomware.host">Personal Domain</a> &mdash;
