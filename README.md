@@ -14,8 +14,10 @@
 
 <br>
 <br>
+<p align="center">
 <img align="left" src="https://ransomware.host/hacker.webp" />
 <img align="center" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
+</p>
 <br>
 <br>
 
