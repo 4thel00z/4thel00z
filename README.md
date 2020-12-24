@@ -34,11 +34,11 @@ Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E
 
 
 <h3 align="center">My stats</h3>
-<a href="http://gendos.site">
+<a href="http://gendos.site" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4thel00z&theme=radical" />
 </a>
 
-<a href="http://gendos.site">
+<a href="http://gendos.site" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact" />
 </a>
 
