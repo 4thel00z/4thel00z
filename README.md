@@ -6,7 +6,9 @@
 <a href="https://www.buymeacoffee.com/4thel00z"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=4thel00z&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 </p>
 <p align="center">
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=4thel00z)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=4thel00z">
+
 </p>
 <p align="center">
     <a href="https://4thel00z.dev/">Personal Blog</a> &mdash;
