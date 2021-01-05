@@ -37,7 +37,7 @@ Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E
 </p>
 <p align="center">
 <a href="http://gendos.site">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact&v=2" />
 </a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4thel00z&theme=highcontrast" alt="4thel00z" /></p>
