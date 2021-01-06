@@ -52,6 +52,12 @@ Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4thel00z&theme=highcontrast" alt="4thel00z" /></p>
 
 
+<h3 align="center">Tutorial on how to follow me</h3>
+<p align="center">
+<img align="center" src="./follow.gif" />
+</p>
+
+
 <h1 align="center">The End.</h1>
 
 
