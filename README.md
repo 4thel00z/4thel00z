@@ -17,11 +17,6 @@
 </p>
 
 <p align="center">
-https://user-images.githubusercontent.com/22024133/119896498-61d31380-bf3f-11eb-8f99-7f3f53adfdc9.mp4
-</p>
-
-
-<p align="center">
     <a href="https://4thel00z.dev/">Personal Blog</a> &mdash;
     <a href="https://ransomware.host">Personal Domain</a> &mdash;
     <a href="https://twitter.com/_ransomware">Twitter</a>
