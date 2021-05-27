@@ -17,8 +17,9 @@
 </p>
 
 <p align="center">
-![hackerboi](./hackerboi.mp4)
-
+<video controls="controls">
+  <source type="video/mp4" src="hackerboi.mp4"></source>
+</video>
 </p>
 
 
