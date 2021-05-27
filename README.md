@@ -15,6 +15,13 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=4thel00z">
 
 </p>
+
+<p align="center">
+![hackerboi](./hackerboi.mp4)
+
+</p>
+
+
 <p align="center">
     <a href="https://4thel00z.dev/">Personal Blog</a> &mdash;
     <a href="https://ransomware.host">Personal Domain</a> &mdash;
