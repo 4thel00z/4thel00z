@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-<video controls="controls">
-  <source type="video/mp4" src="hackerboi.mp4"></source>
-</video>
+https://user-images.githubusercontent.com/22024133/119896498-61d31380-bf3f-11eb-8f99-7f3f53adfdc9.mp4
 </p>
 
 
