@@ -32,7 +32,12 @@
 <br>
 
 I [hägg](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
-Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well.
+Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well, f.e.: 
+
+- Javascript
+- Kotlin
+- Rust
+- C
 
 I treat linux as a first level citizen. I do not *intentially* produce code targetting the Windows platform (as a compilation target lol) unless stated otherwise in the project description. So don't bother me with Windows related questions thx.
 
