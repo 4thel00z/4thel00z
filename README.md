@@ -44,17 +44,6 @@ I treat linux as a first level citizen. I do not *intentially* produce code targ
 If you want to reach me to work with me, send me an email [here](mailto:4thel00z@gmail.com?subject=[GitHub]).
 Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E70B7A61EDA0BA).
 
-<h3 align="center">My stats</h3>
-<p align="center">
-<a href="http://gendos.site">
-  <img src="https://github-readme-stats.vercel.app/api?username=4thel00z&theme=radical" />
-</a>
-</p>
-<p align="center">
-<a href="http://gendos.site">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thel00z&langs_count=8&theme=radical&layout=compact&v=2" />
-</a>
-</p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4thel00z&theme=highcontrast" alt="4thel00z" /></p>
 
 
