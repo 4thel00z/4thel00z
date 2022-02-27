@@ -52,9 +52,12 @@ Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E
 <img align="center" src="./follow.gif" />
 </p>
 
+<pre align="center">
+    Roses are red, violets are blue.
+    You are replaceable and U+FFFD is in lieu.
+</pre>
 
-Roses are red, violets are blue.
-You are replaceable and U+FFFD is in lieu.
+
 
 
 <h1 align="center">The End.</h1>
