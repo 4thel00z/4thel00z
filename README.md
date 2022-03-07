@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2300F7BF&lines=Trust+is...;When+you+can+curl+%7C+bash+the+oneliners...;Without+checking+the+source..." />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2300F7BF&lines=Trust+is...;When+you+can+curl+%7C+bash...;Without+checking+the+source..." />
 </p>
 
 
