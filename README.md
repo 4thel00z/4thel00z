@@ -8,7 +8,8 @@
 
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7BF&lines=Trust+is...;When+you+can+curl+%7C+bash+the+oneliners...;Without+checking+the+source...)](https://git.io/typing-svg)
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2300F7BF&lines=Trust+is...;When+you+can+curl+%7C+bash+the+oneliners...;Without+checking+the+source..." />
 </p>
 
 
