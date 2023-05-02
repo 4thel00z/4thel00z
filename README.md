@@ -14,9 +14,6 @@
 
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/4thel00z"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=4thel00z&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</p>
-<p align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=4thel00z">
 
@@ -30,14 +27,9 @@
 
 <br>
 <br>
-<p align="center">
-<img align="left" src="https://ransomware.host/hacker.webp" />
-<img align="center" src="https://i.giphy.com/media/ZKQpx4TYrxTtS/giphy.webp" />
-</p>
-<br>
 <br>
 
-I [hägg](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
+I [hack](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
 Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well, f.e.: 
 
 - Javascript
@@ -45,7 +37,7 @@ Currently my favourite language is [go](https://golang.org/), I'm pretty decent 
 - Rust
 - C
 
-I treat linux as a first level citizen. I do not *intentially* produce code targetting the Windows platform (as a compilation target lol) unless stated otherwise in the project description. So don't bother me with Windows related questions thx.
+I treat linux as a first level citizen. I do not *intentially* produce code targetting the Windows platform (as a compilation target) unless stated otherwise in the project description.
 
 If you want to reach me to work with me, send me an email [here](mailto:4thel00z@gmail.com?subject=[GitHub]).
 Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E70B7A61EDA0BA).
