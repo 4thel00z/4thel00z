@@ -1,63 +1,53 @@
-<p align="center">
-<img align="center" src="./readme.png" />
-</p>
+<div align="center">
+  <img src="./readme.png" alt="Banner" width="100%" />
+  
+  <br />
+  <br />
 
-<p align="center">
-<img align="center" src="./tech.png" />
-</p>
+  <!-- Contact & Links Badges -->
+  <a href="https://tahrioui.de/">
+    <img src="https://img.shields.io/badge/Personal_Blog-2ea44f?style=for-the-badge&logo=rss&logoColor=white" alt="Personal Blog" />
+  </a>
+  <a href="mailto:mohamedmustaphatahrioui@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+x
+  <br />
+  <br />
+</div>
 
+## About Me
 
-<p align="center">
+I am a **Software Engineer** focused on building robust, scalable systems.
+My expertise lies in backend development and low-level system interactions, with vast exposure to AI systems (Agentic AI orchestration, RAG systems, etc.).
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2300F7BF&lines=Trust+is...;When+you+can+curl+%7C+bash...;Without+checking+the+source..." />
-</p>
+### 🛠 Tech Stack
 
+I select the best tool for the job, with a current focus on systems programming.
 
-<p align="center">
+*   **Primary:** [Go](https://golang.org/), [Python](https://www.python.org/)
+*   **Proficient:** Rust, Typescript/Javascript, C, etc.
+*   **Environment:** Linux-first development.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=4thel00z">
+> I treat Linux as a first-class citizen and prioritize cross-platform compatibility for Unix-like systems.
 
-</p>
+<div align="center">
+  <br />
+  <img src="./tech.png" alt="Tech Stack Visualization" width="80%" />
+  <br />
+</div>
 
-<p align="center">
-    <a href="https://4thel00z.dev/">Personal Blog</a> &mdash;
-    <a href="https://ransomware.host">Personal Domain</a> &mdash;
-    <a href="https://twitter.com/_ransomware">Twitter</a>
-</p>
+### 📬 Contact
 
-<br>
-<br>
-<br>
+I am open to professional collaborations and opportunities.
 
-I [hack](https://www.urbandictionary.com/define.php?term=Hagg#15390684) stuff for a living.
-Currently my favourite language is [go](https://golang.org/), I'm pretty decent in [Python](https://www.python.org/) and other languages as well, f.e.: 
+*   **Email:** [mohamedmustaphatahrioui@gmail.com](mailto:mohamedmustaphatahrioui@gmail.com)
 
-- Javascript
-- Kotlin
-- Rust
-- C
+---
 
-I treat linux as a first level citizen. I do not *intentially* produce code targetting the Windows platform (as a compilation target) unless stated otherwise in the project description.
-
-If you want to reach me to work with me, send me an email [here](mailto:4thel00z@gmail.com?subject=[GitHub]).
-Here is my [public gpg key](http://keys.gnupg.net/pks/lookup?op=get&search=0xD0E70B7A61EDA0BA).
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4thel00z&theme=highcontrast" alt="4thel00z" /></p>
-
-
-<h3 align="center">Tutorial on how to follow me</h3>
-<p align="center">
-<img align="center" src="./follow.gif" />
-</p>
-
-<pre align="center">
-    Roses are red, violets are blue.
-    You are replaceable and U+FFFD is in lieu.
-</pre>
-
-
-
-
-<h1 align="center">The End.</h1>
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4thel00z&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=4thel00z" alt="Visitor Count" />
+</div>
