@@ -66,8 +66,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[personal](https://github.com/4thel00z/personal)** — 🚀 Next.js + Tailwind v4 personal site: MDX blog 📝, RSS 📡, projects 🧩, themes 🎨, and a ⌘K command palette • TypeScript
 - **[qdrant-bench](https://github.com/4thel00z/qdrant-bench)** • Python
 - **[bath](https://github.com/4thel00z/bath)** — 🚿 bath – A TUI tool for managing $PATH, compiler flags & env vars like a sane person. 🛠️ Store profiles in SQLite, fuzzy search, live export preview. 🔥 eval-ready exports, no weird shell scripts. • Rust — latest release: [v0.3.3](https://github.com/4thel00z/bath/releases/tag/v0.3.3) (2025-12-19)
-- **[quran.host](https://github.com/4thel00z/quran.host)**
-- **[swiper](https://github.com/4thel00z/swiper)** • TypeScript
 - **[sdkgen](https://github.com/4thel00z/sdkgen)** — OpenAPI SDK generator for humans. Type-safe, async-first, developer-friendly. • Python
+- **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.1.0](https://github.com/4thel00z/slurp/releases/tag/v0.1.0) (2025-10-25)
+- **[percently](https://github.com/4thel00z/percently)** — Fast percentile calculation library written in rust and exposed to python3. • Rust
 <!--RECENT_PROJECTS:end-->
 
