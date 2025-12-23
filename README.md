@@ -16,38 +16,44 @@
   <br />
 </div>
 
-## About Me
+## Product Engineer (AI)
 
-I am a **Software Engineer** focused on building robust, scalable systems.
-My expertise lies in backend development and low-level system interactions, with vast exposure to AI systems (Agentic AI orchestration, RAG systems, etc.).
+I build and ship product features end-to-end: from idea → architecture → implementation → shipping → iterating with real-world customer feedback.
 
-### 🛠 Tech Stack
+### What I build
 
-I select the best tool for the job, with a current focus on systems programming.
+- AI-assisted product features (agents, retrieval, evaluation workflows)
+- Backend APIs and services (clean contracts, pragmatic architecture)
+- Event-driven systems and integrations
+- Observability-first systems (metrics, logs, traces; debuggable by default)
+- Developer experience (SDKs, tooling, paved roads)
 
-*   **Primary:** [Go](https://golang.org/), [Python](https://www.python.org/)
-*   **Proficient:** Rust, Typescript/Javascript, C, etc.
-*   **Environment:** Linux-first development.
+### How I work
 
-> I treat Linux as a first-class citizen and prioritize cross-platform compatibility for Unix-like systems.
+- Strong ownership, fast iteration, and clear communication
+- prefer boring, reliable solutions (and I know when not to)
+- care about maintainability: tests where they matter, docs where they help
+- like tight feedback loops: instrument, ship, observe, improve
 
-<div align="center">
-  <br />
-  <img src="./tech.png" alt="Tech Stack Visualization" width="80%" />
-  <br />
-</div>
+### Current interests
+
+- Product engineering in the AI space (agents, retrieval, evals, guardrails)
+- Building systems that are simple to operate and hard to break
+
+### Toolbox
+
+- **Core**: Python, Go, Rust, TypeScript
+- **Data**: Postgres, MySQL, SQLite, Redis, Qdrant
+- **Infra**: Linux, Docker, Kubernetes, Terraform, Helm
+- **Messaging & async**: Kafka, RabbitMQ, SQS/SNS, Temporal, DBOS
+- **Cloud**: AWS (primary), plus Azure/GCP when needed
+- **Observability**: OpenTelemetry, Prometheus, Grafana, tracing/telemetry-first debugging
+- **AI systems**: RAG/search workflows, evaluation harnesses, retrieval quality loops, guardrails
 
 ### 📬 Contact
 
-I am open to professional collaborations and opportunities.
+Open to product engineering roles at early-stage startups (especially in the AI space).
 
-*   **Email:** [mohamedmustaphatahrioui@gmail.com](mailto:mohamedmustaphatahrioui@gmail.com)
+- **Website/Blog**: `https://tahrioui.de/`
+- **Email**: [mohamedmustaphatahrioui@gmail.com](mailto:mohamedmustaphatahrioui@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4thel00z&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=4thel00z" alt="Visitor Count" />
-</div>
