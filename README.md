@@ -57,3 +57,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **Website/Blog**: `https://tahrioui.de/`
 - **Email**: [mohamedmustaphatahrioui@gmail.com](mailto:mohamedmustaphatahrioui@gmail.com)
 
+### Recent projects
+
+<!--RECENT_PROJECTS:start-->
+<!--RECENT_PROJECTS:end-->
+
