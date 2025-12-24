@@ -61,8 +61,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[html2md](https://github.com/4thel00z/html2md)** — 📝 Markdown → self‑contained HTML in seconds (Tailwind v4 + DaisyUI themes) • CSS — latest release: [html2md-v0.4.0](https://github.com/4thel00z/html2md/releases/tag/html2md-v0.4.0) (2025-12-23)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
-- **[html2md](https://github.com/4thel00z/html2md)** • CSS — latest release: [html2md-v0.3.2](https://github.com/4thel00z/html2md/releases/tag/html2md-v0.3.2) (2025-12-23)
 - **[personal](https://github.com/4thel00z/personal)** — 🚀 Next.js + Tailwind v4 personal site: MDX blog 📝, RSS 📡, projects 🧩, themes 🎨, and a ⌘K command palette • TypeScript
 - **[qdrant-bench](https://github.com/4thel00z/qdrant-bench)** • Python
 - **[bath](https://github.com/4thel00z/bath)** — 🚿 bath – A TUI tool for managing $PATH, compiler flags & env vars like a sane person. 🛠️ Store profiles in SQLite, fuzzy search, live export preview. 🔥 eval-ready exports, no weird shell scripts. • Rust — latest release: [v0.3.3](https://github.com/4thel00z/bath/releases/tag/v0.3.3) (2025-12-19)
