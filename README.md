@@ -61,13 +61,13 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[html2md](https://github.com/4thel00z/html2md)** — 📝 Markdown → self‑contained HTML in seconds (Tailwind v4 + DaisyUI themes) • CSS — latest release: [html2md-v0.4.0](https://github.com/4thel00z/html2md/releases/tag/html2md-v0.4.0) (2025-12-23)
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[lambda](https://github.com/4thel00z/lambda)** — Lambda is a powerful but simple functional framework. It supports Monads (options) and Conditionals as of now and has some nifty helpers. • Go
+- **[percently](https://github.com/4thel00z/percently)** — ⚡️ Blazing-fast percentile calculator (p50/p95/p99) in Rust — with Python bindings • Rust
 - **[personal](https://github.com/4thel00z/personal)** — 🚀 Next.js + Tailwind v4 personal site: MDX blog 📝, RSS 📡, projects 🧩, themes 🎨, and a ⌘K command palette • TypeScript
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[html2md](https://github.com/4thel00z/html2md)** — 📝 Markdown → self‑contained HTML in seconds (Tailwind v4 + DaisyUI themes) • CSS — latest release: [html2md-v0.4.0](https://github.com/4thel00z/html2md/releases/tag/html2md-v0.4.0) (2025-12-23)
 - **[qdrant-bench](https://github.com/4thel00z/qdrant-bench)** • Python
 - **[bath](https://github.com/4thel00z/bath)** — 🚿 bath – A TUI tool for managing $PATH, compiler flags & env vars like a sane person. 🛠️ Store profiles in SQLite, fuzzy search, live export preview. 🔥 eval-ready exports, no weird shell scripts. • Rust — latest release: [v0.3.3](https://github.com/4thel00z/bath/releases/tag/v0.3.3) (2025-12-19)
 - **[sdkgen](https://github.com/4thel00z/sdkgen)** — OpenAPI SDK generator for humans. Type-safe, async-first, developer-friendly. • Python
-- **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.1.0](https://github.com/4thel00z/slurp/releases/tag/v0.1.0) (2025-10-25)
-- **[percently](https://github.com/4thel00z/percently)** — Fast percentile calculation library written in rust and exposed to python3. • Rust
 <!--RECENT_PROJECTS:end-->
 
