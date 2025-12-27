@@ -61,8 +61,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[webhookd](https://github.com/4thel00z/webhookd)** — Why trust online webhook services with your data when you can run your own webhooks? 🎣 • Go — latest release: [v1.1.0](https://github.com/4thel00z/webhookd/releases/tag/v1.1.0) (2025-12-25)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[webhookd](https://github.com/4thel00z/webhookd)** — Why trust online webhook services with your data when you can run your own webhooks? 🎣 • Go — latest release: [v1.1.0](https://github.com/4thel00z/webhookd/releases/tag/v1.1.0) (2025-12-25)
 - **[percently](https://github.com/4thel00z/percently)** — ⚡️ Blazing-fast percentile calculator (p50/p95/p99) in Rust — with Python bindings • Rust
 - **[lambda](https://github.com/4thel00z/lambda)** — 🧰 Functional programming helpers for Go — ✅ Option-based error handling, 🔗 fluent pipelines, ⚡ parallel + channel utilities (with generics) • Go
 - **[personal](https://github.com/4thel00z/personal)** — 🚀 Next.js + Tailwind v4 personal site: MDX blog 📝, RSS 📡, projects 🧩, themes 🎨, and a ⌘K command palette • TypeScript
