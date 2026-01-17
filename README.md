@@ -61,6 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** • Python
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[mitmproxy-tools](https://github.com/4thel00z/mitmproxy-tools)**
 - **[webhookd](https://github.com/4thel00z/webhookd)** — Why trust online webhook services with your data when you can run your own webhooks? 🎣 • Go — latest release: [v1.1.0](https://github.com/4thel00z/webhookd/releases/tag/v1.1.0) (2025-12-25)
@@ -68,6 +69,5 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[lambda](https://github.com/4thel00z/lambda)** — 🧰 Functional programming library for Go — ✅ Option-based error handling, 🔗 fluent pipelines, ⚡ parallel + channel utilities (with generics) • Go
 - **[personal](https://github.com/4thel00z/personal)** — 🚀 Next.js + Tailwind v4 personal site: MDX blog 📝, RSS 📡, projects 🧩, themes 🎨, and a ⌘K command palette • TypeScript
 - **[html2md](https://github.com/4thel00z/html2md)** — 📝 Markdown → self‑contained HTML in seconds (Tailwind v4 + DaisyUI themes) • CSS — latest release: [html2md-v0.4.0](https://github.com/4thel00z/html2md/releases/tag/html2md-v0.4.0) (2025-12-23)
-- **[qdrant-bench](https://github.com/4thel00z/qdrant-bench)** • Python
 <!--RECENT_PROJECTS:end-->
 
