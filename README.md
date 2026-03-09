@@ -61,6 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[code-walkthrough](https://github.com/4thel00z/code-walkthrough)** • Go
 - **[memories](https://github.com/4thel00z/memories)** • Go
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[competitor-analysis](https://github.com/4thel00z/competitor-analysis)** — Scrape competitor websites, extract features, estimate implementation costs. Interactive Gumroad-styled dashboard. • HTML
@@ -68,6 +69,5 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[mitmproxy-tools](https://github.com/4thel00z/mitmproxy-tools)**
 - **[webhookd](https://github.com/4thel00z/webhookd)** — Why trust online webhook services with your data when you can run your own webhooks? 🎣 • Go — latest release: [v1.1.0](https://github.com/4thel00z/webhookd/releases/tag/v1.1.0) (2025-12-25)
 - **[percently](https://github.com/4thel00z/percently)** — ⚡️ Blazing-fast percentile calculator (p50/p95/p99) in Rust — with Python bindings • Rust
-- **[lambda](https://github.com/4thel00z/lambda)** — 🧰 Functional programming library for Go — ✅ Option-based error handling, 🔗 fluent pipelines, ⚡ parallel + channel utilities (with generics) • Go
 <!--RECENT_PROJECTS:end-->
 
