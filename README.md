@@ -62,8 +62,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 <!--RECENT_PROJECTS:start-->
 
 - **[code-walkthrough](https://github.com/4thel00z/code-walkthrough)** • Go
-- **[memories](https://github.com/4thel00z/memories)** • Go
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[memories](https://github.com/4thel00z/memories)** • Go
 - **[competitor-analysis](https://github.com/4thel00z/competitor-analysis)** — Scrape competitor websites, extract features, estimate implementation costs. Interactive Gumroad-styled dashboard. • HTML
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** • Python
 - **[mitmproxy-tools](https://github.com/4thel00z/mitmproxy-tools)**
