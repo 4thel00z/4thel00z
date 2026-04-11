@@ -61,6 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[cispy](https://github.com/4thel00z/cispy)**
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[txtswiper](https://github.com/4thel00z/txtswiper)** • Zig
 - **[code-walkthrough](https://github.com/4thel00z/code-walkthrough)** • Go
@@ -68,6 +69,5 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[competitor-analysis](https://github.com/4thel00z/competitor-analysis)** — Scrape competitor websites, extract features, estimate implementation costs. Interactive Gumroad-styled dashboard. • HTML
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** • Python
 - **[mitmproxy-tools](https://github.com/4thel00z/mitmproxy-tools)**
-- **[webhookd](https://github.com/4thel00z/webhookd)** — Why trust online webhook services with your data when you can run your own webhooks? 🎣 • Go — latest release: [v1.1.0](https://github.com/4thel00z/webhookd/releases/tag/v1.1.0) (2025-12-25)
 <!--RECENT_PROJECTS:end-->
 
