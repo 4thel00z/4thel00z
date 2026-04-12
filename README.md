@@ -61,8 +61,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[cispy](https://github.com/4thel00z/cispy)**
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[cispy](https://github.com/4thel00z/cispy)**
 - **[txtswiper](https://github.com/4thel00z/txtswiper)** • Zig
 - **[code-walkthrough](https://github.com/4thel00z/code-walkthrough)** • Go
 - **[memories](https://github.com/4thel00z/memories)** • Go
