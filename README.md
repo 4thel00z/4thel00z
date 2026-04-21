@@ -61,6 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[cispy](https://github.com/4thel00z/cispy)**
 - **[txtswiper](https://github.com/4thel00z/txtswiper)** • Zig
@@ -68,6 +69,5 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[memories](https://github.com/4thel00z/memories)** • Go
 - **[competitor-analysis](https://github.com/4thel00z/competitor-analysis)** — Scrape competitor websites, extract features, estimate implementation costs. Interactive Gumroad-styled dashboard. • HTML
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** • Python
-- **[mitmproxy-tools](https://github.com/4thel00z/mitmproxy-tools)**
 <!--RECENT_PROJECTS:end-->
 
