@@ -61,8 +61,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[frontend-skills](https://github.com/4thel00z/frontend-skills)** — React, Next.js, and Tailwind that ships fast and stays cheap to change - a Claude Code skill.
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[frontend-skills](https://github.com/4thel00z/frontend-skills)** — React, Next.js, and Tailwind that ships fast and stays cheap to change - a Claude Code skill.
 - **[write-well](https://github.com/4thel00z/write-well)**
 - **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
 - **[txtswiper](https://github.com/4thel00z/txtswiper)** • Zig
