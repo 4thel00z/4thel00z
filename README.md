@@ -61,13 +61,13 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.2.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.2.0) (2026-06-06)
+- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings — rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.2.2](https://github.com/4thel00z/konan/releases/tag/v0.2.2) (2026-06-07)
+- **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.3.1](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.3.1) (2026-06-06)
+- **[cmux-config](https://github.com/4thel00z/cmux-config)** — Ghostty terminal config for cmux on macOS — Material Ocean theme + German-layout Option keybinds
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[ngrok-skill](https://github.com/4thel00z/ngrok-skill)**
 - **[frontend-skills](https://github.com/4thel00z/frontend-skills)** — React, Next.js, and Tailwind that ships fast and stays cheap to change - a Claude Code skill.
 - **[write-well](https://github.com/4thel00z/write-well)**
 - **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
-- **[txtswiper](https://github.com/4thel00z/txtswiper)** • Zig
-- **[code-walkthrough](https://github.com/4thel00z/code-walkthrough)** • Go
 <!--RECENT_PROJECTS:end-->
 
