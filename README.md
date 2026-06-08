@@ -61,10 +61,10 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings — rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.2.2](https://github.com/4thel00z/konan/releases/tag/v0.2.2) (2026-06-07)
+- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.2.4](https://github.com/4thel00z/konan/releases/tag/v0.2.4) (2026-06-07)
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.3.1](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.3.1) (2026-06-06)
 - **[cmux-config](https://github.com/4thel00z/cmux-config)** — Ghostty terminal config for cmux on macOS — Material Ocean theme + German-layout Option keybinds
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[ngrok-skill](https://github.com/4thel00z/ngrok-skill)**
 - **[frontend-skills](https://github.com/4thel00z/frontend-skills)** — React, Next.js, and Tailwind that ships fast and stays cheap to change - a Claude Code skill.
 - **[write-well](https://github.com/4thel00z/write-well)**
