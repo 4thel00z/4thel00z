@@ -61,13 +61,13 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.2.4](https://github.com/4thel00z/konan/releases/tag/v0.2.4) (2026-06-07)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.2.4](https://github.com/4thel00z/konan/releases/tag/v0.2.4) (2026-06-07)
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.3.1](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.3.1) (2026-06-06)
 - **[cmux-config](https://github.com/4thel00z/cmux-config)** — Ghostty terminal config for cmux on macOS — Material Ocean theme + German-layout Option keybinds
 - **[ngrok-skill](https://github.com/4thel00z/ngrok-skill)**
 - **[frontend-skills](https://github.com/4thel00z/frontend-skills)** — React, Next.js, and Tailwind that ships fast and stays cheap to change - a Claude Code skill.
-- **[write-well](https://github.com/4thel00z/write-well)**
+- **[write-well](https://github.com/4thel00z/write-well)** — A Claude Code skill for writing prose that doesn't sound like AI wrote it. A tight reference an agent can actually apply: four cuts, a five-step edit pass, red flags, and a full 100-principle canon for when you need to go deep.
 - **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
 <!--RECENT_PROJECTS:end-->
 
