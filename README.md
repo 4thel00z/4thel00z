@@ -61,13 +61,13 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[memories](https://github.com/4thel00z/memories)** • Go
+- **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.1.0](https://github.com/4thel00z/slurp/releases/tag/v0.1.0) (2025-10-25)
+- **[metalbrew](https://github.com/4thel00z/metalbrew)** — 🍺 Homebrew rebuilt in Zig — a dependency-free bottle package manager for macOS arm64. No Ruby runtime, hexagonal architecture, single static binary. • Zig
+- **[modal-skills](https://github.com/4thel00z/modal-skills)** — Claude Code skill teaching the Modal CLI — serverless Python & GPUs in the cloud (run/serve/deploy, volumes, secrets, shell).
+- **[s5cmd-skill](https://github.com/4thel00z/s5cmd-skill)** — Claude Code skill for s5cmd — blazing-fast, massively parallel S3 data movement. Teaches the agent every s5cmd subcommand, grounded in v2.3.0 --help.
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[memories](https://github.com/4thel00z/memories)** • Go
 - **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.2.4](https://github.com/4thel00z/konan/releases/tag/v0.2.4) (2026-06-07)
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.3.1](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.3.1) (2026-06-06)
-- **[cmux-config](https://github.com/4thel00z/cmux-config)** — Ghostty terminal config for cmux on macOS — Material Ocean theme + German-layout Option keybinds
-- **[ngrok-skill](https://github.com/4thel00z/ngrok-skill)**
-- **[frontend-skills](https://github.com/4thel00z/frontend-skills)** — React, Next.js, and Tailwind that ships fast and stays cheap to change - a Claude Code skill.
-- **[write-well](https://github.com/4thel00z/write-well)** — A Claude Code skill for writing prose that doesn't sound like AI wrote it. A tight reference an agent can actually apply: four cuts, a five-step edit pass, red flags, and a full 100-principle canon for when you need to go deep.
 <!--RECENT_PROJECTS:end-->
 
