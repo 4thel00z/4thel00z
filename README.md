@@ -61,8 +61,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.1.0](https://github.com/4thel00z/slurp/releases/tag/v0.1.0) (2026-06-13)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.1.0](https://github.com/4thel00z/slurp/releases/tag/v0.1.0) (2026-06-13)
 - **[metalbrew](https://github.com/4thel00z/metalbrew)** — 🍺 Homebrew rebuilt in Zig — a dependency-free bottle package manager for macOS arm64. No Ruby runtime, hexagonal architecture, single static binary. • Zig — latest release: [v0.1.0](https://github.com/4thel00z/metalbrew/releases/tag/v0.1.0) (2026-06-11)
 - **[homebrew-metalbrew](https://github.com/4thel00z/homebrew-metalbrew)** — Homebrew tap for metalbrew — a Zig-based, Homebrew-compatible bottle package manager for Apple Silicon • Ruby
 - **[modal-skills](https://github.com/4thel00z/modal-skills)** — Claude Code skill teaching the Modal CLI — serverless Python & GPUs in the cloud (run/serve/deploy, volumes, secrets, shell).
