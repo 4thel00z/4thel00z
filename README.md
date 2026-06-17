@@ -61,11 +61,11 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
 - **[freeze-skill](https://github.com/4thel00z/freeze-skill)**
 - **[homebrew-metalbrew](https://github.com/4thel00z/homebrew-metalbrew)** — Homebrew tap for metalbrew — a Zig-based, Homebrew-compatible bottle package manager for Apple Silicon • Ruby
 - **[metalbrew](https://github.com/4thel00z/metalbrew)** — 🍺 Homebrew rebuilt in Zig — a dependency-free bottle package manager for macOS arm64. No Ruby runtime, hexagonal architecture, single static binary. • Zig — latest release: [v0.2.1](https://github.com/4thel00z/metalbrew/releases/tag/v0.2.1) (2026-06-15)
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[rizin-re-skill](https://github.com/4thel00z/rizin-re-skill)** • Python
 - **[modal-skills](https://github.com/4thel00z/modal-skills)** — Claude Code skill teaching the Modal CLI — serverless Python & GPUs in the cloud (run/serve/deploy, volumes, secrets, shell).
 - **[s5cmd-skill](https://github.com/4thel00z/s5cmd-skill)** — Claude Code skill for s5cmd — blazing-fast, massively parallel S3 data movement. Teaches the agent every s5cmd subcommand, grounded in v2.3.0 --help.
