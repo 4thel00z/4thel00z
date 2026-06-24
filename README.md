@@ -61,9 +61,9 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.3.1](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.3.1) (2026-06-06)
 - **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[apktool-skill](https://github.com/4thel00z/apktool-skill)** — Claude Code skill for apktool — decode/edit/build/sign Android APKs
 - **[freeze-skill](https://github.com/4thel00z/freeze-skill)**
 - **[homebrew-metalbrew](https://github.com/4thel00z/homebrew-metalbrew)** — Homebrew tap for metalbrew — a Zig-based, Homebrew-compatible bottle package manager for Apple Silicon • Ruby
