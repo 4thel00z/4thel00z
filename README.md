@@ -61,6 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-cli-v0.3.1](https://github.com/4thel00z/ytdown/releases/tag/ytdown-cli-v0.3.1) (2026-06-06)
 - **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
@@ -68,6 +69,5 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[freeze-skill](https://github.com/4thel00z/freeze-skill)**
 - **[homebrew-metalbrew](https://github.com/4thel00z/homebrew-metalbrew)** — Homebrew tap for metalbrew — a Zig-based, Homebrew-compatible bottle package manager for Apple Silicon • Ruby
 - **[metalbrew](https://github.com/4thel00z/metalbrew)** — 🍺 Homebrew rebuilt in Zig — a dependency-free bottle package manager for macOS arm64. No Ruby runtime, hexagonal architecture, single static binary. • Zig — latest release: [v0.2.1](https://github.com/4thel00z/metalbrew/releases/tag/v0.2.1) (2026-06-15)
-- **[rizin-re-skill](https://github.com/4thel00z/rizin-re-skill)** • Python
 <!--RECENT_PROJECTS:end-->
 
