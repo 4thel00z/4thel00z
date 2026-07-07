@@ -61,13 +61,13 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[dizzle](https://github.com/4thel00z/dizzle)** • Rust
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-v0.7.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-v0.7.0) (2026-07-05)
 - **[memories](https://github.com/4thel00z/memories)** — Git-powered, file-based memory store with semantic search — CLI and Go library for coding agents • Go — latest release: [v0.7.0](https://github.com/4thel00z/memories/releases/tag/v0.7.0) (2026-07-05)
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[zml-patched](https://github.com/4thel00z/zml-patched)**
 - **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
 - **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
 - **[apktool-skill](https://github.com/4thel00z/apktool-skill)** — Claude Code skill for apktool — decode/edit/build/sign Android APKs
-- **[freeze-skill](https://github.com/4thel00z/freeze-skill)**
 <!--RECENT_PROJECTS:end-->
 
