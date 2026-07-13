@@ -61,6 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** • Rust
 - **[mimey](https://github.com/4thel00z/mimey)** — A fast and efficient MIME type and file extension detector implemented in Rust, exposed as a Python package. • Rust
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[dizzle](https://github.com/4thel00z/dizzle)** • Rust
@@ -68,6 +69,5 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 - **[memories](https://github.com/4thel00z/memories)** — Git-powered, file-based memory store with semantic search — CLI and Go library for coding agents • Go — latest release: [v0.7.0](https://github.com/4thel00z/memories/releases/tag/v0.7.0) (2026-07-05)
 - **[zml-patched](https://github.com/4thel00z/zml-patched)**
 - **[ohmynvim](https://github.com/4thel00z/ohmynvim)** — ✨ OhMyNvim - A modern, blazing-fast Neovim configuration for polyglot developers. IDE-like features with <50ms startup. LSP, DAP, Treesitter, and more! • Lua
-- **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
 <!--RECENT_PROJECTS:end-->
 
