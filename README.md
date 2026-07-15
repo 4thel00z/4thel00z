@@ -61,7 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** • Rust
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** • Rust — latest release: [v0.1.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.1.0) (2026-07-14)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[mimey](https://github.com/4thel00z/mimey)** — A fast and efficient MIME type and file extension detector implemented in Rust, exposed as a Python package. • Rust
 - **[dizzle](https://github.com/4thel00z/dizzle)** • Rust
