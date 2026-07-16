@@ -61,10 +61,10 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** • Rust — latest release: [v0.1.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.1.0) (2026-07-14)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** • Rust — latest release: [pdfboss-fonts-v0.2.0](https://github.com/4thel00z/pdfboss/releases/tag/pdfboss-fonts-v0.2.0) (2026-07-15)
+- **[dizzle](https://github.com/4thel00z/dizzle)** • Rust
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[mimey](https://github.com/4thel00z/mimey)** — A fast and efficient MIME type and file extension detector implemented in Rust, exposed as a Python package. • Rust
-- **[dizzle](https://github.com/4thel00z/dizzle)** • Rust
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-v0.7.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-v0.7.0) (2026-07-05)
 - **[memories](https://github.com/4thel00z/memories)** — Git-powered, file-based memory store with semantic search — CLI and Go library for coding agents • Go — latest release: [v0.7.0](https://github.com/4thel00z/memories/releases/tag/v0.7.0) (2026-07-05)
 - **[zml-patched](https://github.com/4thel00z/zml-patched)**
