@@ -61,7 +61,7 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** — From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3 — benchmarked faster than mainstream Python PDF libraries • Rust — latest release: [v0.5.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.5.0) (2026-07-25)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** — From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3 — benchmarked faster than mainstream Python PDF libraries • Rust — latest release: [v0.6.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.6.0) (2026-07-27)
 - **[parquet-file-fs](https://github.com/4thel00z/parquet-file-fs)** • Rust — latest release: [v0.2.0](https://github.com/4thel00z/parquet-file-fs/releases/tag/v0.2.0) (2026-07-24)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
 - **[namecheap-tui](https://github.com/4thel00z/namecheap-tui)** — Feature-complete CLI & TUI for the Namecheap API — domains, DNS zone editor, SSL, transfers — built in Go with Bubble Tea, Cobra/Fang, and Turso • Go
