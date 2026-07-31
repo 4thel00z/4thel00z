@@ -61,9 +61,9 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** — From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3 — benchmarked faster than mainstream Python PDF libraries • Rust — latest release: [v0.8.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.8.0) (2026-07-29)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** — From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3 — benchmarked faster than mainstream Python PDF libraries • Rust — latest release: [v0.10.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.10.0) (2026-07-30)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[konan](https://github.com/4thel00z/konan)** — Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust — latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
 - **[parquet-file-fs](https://github.com/4thel00z/parquet-file-fs)** • Rust — latest release: [v0.2.0](https://github.com/4thel00z/parquet-file-fs/releases/tag/v0.2.0) (2026-07-24)
 - **[namecheap-tui](https://github.com/4thel00z/namecheap-tui)** — Feature-complete CLI & TUI for the Namecheap API — domains, DNS zone editor, SSL, transfers — built in Go with Bubble Tea, Cobra/Fang, and Turso • Go
 - **[slurp](https://github.com/4thel00z/slurp)** — Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python — latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
