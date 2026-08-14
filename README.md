@@ -61,8 +61,8 @@ Open to product engineering roles at early-stage startups (especially in the AI 
 
 <!--RECENT_PROJECTS:start-->
 
-- **[dizzle](https://github.com/4thel00z/dizzle)** — Rust-powered functional toolkit for Python: toolz-compatible API, Option/Result types, and a fluent Iter — benchmarked faster than cytoolz • Rust
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** — My github frontpage.
+- **[dizzle](https://github.com/4thel00z/dizzle)** — Rust-powered functional toolkit for Python: toolz-compatible API, Option/Result types, and a fluent Iter — benchmarked faster than cytoolz • Rust
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** — From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3 — benchmarked faster than mainstream Python PDF libraries • Rust — latest release: [v0.16.0](https://github.com/4thel00z/pdfboss/releases/tag/v0.16.0) (2026-08-11)
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust — latest release: [ytdown-v0.8.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-v0.8.0) (2026-08-05)
 - **[bath](https://github.com/4thel00z/bath)** — 🚿 bath – A TUI tool for managing $PATH, compiler flags & env vars like a sane person. 🛠️ Store profiles in SQLite, fuzzy search, live export preview. 🔥 eval-ready exports, no weird shell scripts. • Rust — latest release: [v0.4.1](https://github.com/4thel00z/bath/releases/tag/v0.4.1) (2026-08-05)
