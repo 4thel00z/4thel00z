@@ -73,10 +73,10 @@ async function main() {
       const tag = escapeMd(release.tag_name);
       const date = fmtDate(release.published_at);
       const datePart = date ? ` (${date})` : "";
-      releasePart = ` — latest release: [${tag}](${release.html_url})${datePart}`;
+      releasePart = ` - latest release: [${tag}](${release.html_url})${datePart}`;
     }
 
-    const descPart = desc ? ` — ${desc}` : "";
+    const descPart = desc ? ` - ${desc}` : "";
     lines.push(`- **[${name}](${url})**${descPart}${lang}${releasePart}`);
   }
 
