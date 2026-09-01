@@ -1,0 +1,29 @@
+body {
+  color: #1c1b22;
+  font-family: sans-serif;
+  font-size: 12pt;
+  line-height: 1.4;
+}
+
+table {
+  font-size: 12pt;
+}
+
+th {
+  font-size: 1pt;
+  color: #ffffff;
+  padding: 0pt;
+}
+
+td {
+  padding: 8pt 14pt;
+  color: #3a3942;
+}
+
+code {
+  font-family: serif;
+  font-weight: bold;
+  font-size: 13pt;
+  color: #1c1b22;
+  background-color: #ffffff;
+}
