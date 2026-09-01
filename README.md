@@ -21,9 +21,14 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 ### Stack
 
-<img src="./stack.png" width="100%" alt="Stack: Languages: Python, Go, Rust, TypeScript. Data: Postgres, MySQL, SQLite, Redis, Qdrant. Infra: Linux, Docker, Kubernetes, Terraform, Helm, AWS. Async: Kafka, RabbitMQ, SQS/SNS, Temporal, DBOS. Observability: OpenTelemetry, Prometheus, Grafana. AI systems: RAG pipelines, eval harnesses, guardrails." />
-
-<sub>Rendered with [pdfboss](https://github.com/4thel00z/pdfboss) from [markdown](./.github/stack-table/stack.md) and a [CSS theme](./.github/stack-table/stack-theme.css).</sub>
+|  |  |
+| --- | --- |
+| **Languages** | Python, Go, Rust, TypeScript |
+| **Data** | Postgres, MySQL, SQLite, Redis, Qdrant |
+| **Infra** | Linux, Docker, Kubernetes, Terraform, Helm, AWS |
+| **Async** | Kafka, RabbitMQ, SQS/SNS, Temporal, DBOS |
+| **Observability** | OpenTelemetry, Prometheus, Grafana |
+| **AI systems** | RAG pipelines, eval harnesses, guardrails |
 
 ### Recent projects
 
