@@ -35,7 +35,7 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 <!--RECENT_PROJECTS:start-->
 
 - **[notslowapi](https://github.com/4thel00z/notslowapi)** - Like fastapi, but not slow. • HTML - latest release: [v0.2.0](https://github.com/4thel00z/notslowapi/releases/tag/v0.2.0) (2026-09-03)
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.1.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.1.0) (2026-09-08)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.3.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.3.0) (2026-09-10)
 - **[turbofile](https://github.com/4thel00z/turbofile)** - Real async file I/O for Python: io_uring and POSIX AIO via a Rust core, behind an aiofiles-compatible asyncio API • Rust - latest release: [v0.1.4](https://github.com/4thel00z/turbofile/releases/tag/v0.1.4) (2026-09-08)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[dizzle](https://github.com/4thel00z/dizzle)** - Rust-powered functional toolkit for Python: toolz-compatible API, Option/Result types, and a fluent Iter. benchmarked faster than cytoolz • Rust
