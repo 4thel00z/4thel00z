@@ -34,12 +34,12 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
+- **[turbofile](https://github.com/4thel00z/turbofile)** - Real async file I/O for Python: io_uring and POSIX AIO via a Rust core, behind an aiofiles-compatible asyncio API • Rust - latest release: [v0.1.5](https://github.com/4thel00z/turbofile/releases/tag/v0.1.5) (2026-09-11)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.4.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.4.0) (2026-09-11)
+- **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v0.3.0](https://github.com/4thel00z/pptxboss/releases/tag/v0.3.0) (2026-09-11)
 - **[notslowapi](https://github.com/4thel00z/notslowapi)** - Like fastapi, but not slow. • HTML - latest release: [v0.2.0](https://github.com/4thel00z/notslowapi/releases/tag/v0.2.0) (2026-09-03)
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.3.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.3.0) (2026-09-10)
-- **[turbofile](https://github.com/4thel00z/turbofile)** - Real async file I/O for Python: io_uring and POSIX AIO via a Rust core, behind an aiofiles-compatible asyncio API • Rust - latest release: [v0.1.4](https://github.com/4thel00z/turbofile/releases/tag/v0.1.4) (2026-09-08)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[dizzle](https://github.com/4thel00z/dizzle)** - Rust-powered functional toolkit for Python: toolz-compatible API, Option/Result types, and a fluent Iter. benchmarked faster than cytoolz • Rust
 - **[ytdown](https://github.com/4thel00z/ytdown)** • Rust - latest release: [ytdown-v0.8.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-v0.8.0) (2026-08-05)
 - **[bath](https://github.com/4thel00z/bath)** - 🚿 bath – A TUI tool for managing $PATH, compiler flags & env vars like a sane person. 🛠️ Store profiles in SQLite, fuzzy search, live export preview. 🔥 eval-ready exports, no weird shell scripts. • Rust - latest release: [v0.4.1](https://github.com/4thel00z/bath/releases/tag/v0.4.1) (2026-08-05)
-- **[slurp](https://github.com/4thel00z/slurp)** - Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean architecture • Python - latest release: [v0.2.0](https://github.com/4thel00z/slurp/releases/tag/v0.2.0) (2026-06-14)
 <!--RECENT_PROJECTS:end-->
