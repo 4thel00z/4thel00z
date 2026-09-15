@@ -34,7 +34,7 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.5.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.5.0) (2026-09-13)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.6.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.6.1) (2026-09-14)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[turbofile](https://github.com/4thel00z/turbofile)** - Real async file I/O for Python: io_uring and POSIX AIO via a Rust core, behind an aiofiles-compatible asyncio API • Rust - latest release: [v0.1.5](https://github.com/4thel00z/turbofile/releases/tag/v0.1.5) (2026-09-11)
 - **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v0.3.0](https://github.com/4thel00z/pptxboss/releases/tag/v0.3.0) (2026-09-11)
