@@ -34,9 +34,9 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[mimey](https://github.com/4thel00z/mimey)** - A fast and efficient MIME type and file extension detector implemented in Rust, exposed as a Python package. • Python - latest release: [0.3.0](https://github.com/4thel00z/mimey/releases/tag/0.3.0) (2026-09-18)
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.10.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.10.0) (2026-09-19)
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v0.3.0](https://github.com/4thel00z/pptxboss/releases/tag/v0.3.0) (2026-09-11)
 - **[turbofile](https://github.com/4thel00z/turbofile)** - Real async file I/O for Python: io_uring and POSIX AIO via a Rust core, behind an aiofiles-compatible asyncio API • Rust - latest release: [v0.1.5](https://github.com/4thel00z/turbofile/releases/tag/v0.1.5) (2026-09-11)
 - **[notslowapi](https://github.com/4thel00z/notslowapi)** - Like fastapi, but not slow. • HTML - latest release: [v0.2.0](https://github.com/4thel00z/notslowapi/releases/tag/v0.2.0) (2026-09-03)
