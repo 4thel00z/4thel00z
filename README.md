@@ -34,12 +34,12 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
+- **[quran](https://github.com/4thel00z/quran)** - Read and listen to the Quran in your terminal: 12 reciters, word-by-word highlighting, 35 translations. Bubble Tea + Fang TUI in Go. • Go
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.11.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.11.0) (2026-09-21)
-- **[serenedb-operator](https://github.com/4thel00z/serenedb-operator)** • Go
-- **[ytdown](https://github.com/4thel00z/ytdown)** • Rust - latest release: [ytdown-v0.8.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-v0.8.0) (2026-08-05)
-- **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.2.1](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.2.1) (2026-09-23)
-- **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v2.1.0](https://github.com/4thel00z/pptxboss/releases/tag/v2.1.0) (2026-09-23)
+- **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
+- **[serenedb-operator](https://github.com/4thel00z/serenedb-operator)** • Go - latest release: [v0.1.0](https://github.com/4thel00z/serenedb-operator/releases/tag/v0.1.0) (2026-09-24)
+- **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v2.2.0](https://github.com/4thel00z/pptxboss/releases/tag/v2.2.0) (2026-09-24)
+- **[ytdown](https://github.com/4thel00z/ytdown)** - Fastest youtube downloader library and cli in the world. Written in rust, with Python bindings. • Rust - latest release: [ytdown-web-v0.7.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-web-v0.7.0) (2026-09-24)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[turbofile](https://github.com/4thel00z/turbofile)** - Real async file I/O for Python: io_uring and POSIX AIO via a Rust core, behind an aiofiles-compatible asyncio API • Rust - latest release: [v0.1.5](https://github.com/4thel00z/turbofile/releases/tag/v0.1.5) (2026-09-11)
-- **[mimey](https://github.com/4thel00z/mimey)** - A fast and efficient MIME type and file extension detector implemented in Rust, exposed as a Python package. • Python - latest release: [0.4.0](https://github.com/4thel00z/mimey/releases/tag/0.4.0) (2026-09-21)
 <!--RECENT_PROJECTS:end-->
