@@ -34,12 +34,12 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.13.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.13.1) (2026-10-03)
+- **[homebrew-tap](https://github.com/4thel00z/homebrew-tap)** - Homebrew tap for 4thel00z tools • Ruby
+- **[timeout](https://github.com/4thel00z/timeout)** - GNU-compatible timeout for macOS, written in Go • Go - latest release: [v0.1.2](https://github.com/4thel00z/timeout/releases/tag/v0.1.2) (2026-10-04)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.13.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.13.1) (2026-10-03)
 - **[docboss](https://github.com/4thel00z/docboss)** - Word engine written from scratch in Rust: reads .docx and legacy .doc, extracts text, Markdown, HTML and JSON, renders pages to PNG, writes DOCX, opens encrypted and remote files, checked against ECMA-376 and [MS-DOC] with a Lean ledger. CLI, Python bindings and a terminal explorer. • Rust - latest release: [v0.2.0](https://github.com/4thel00z/docboss/releases/tag/v0.2.0) (2026-10-01)
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
 - **[quran](https://github.com/4thel00z/quran)** - Read and listen to the Quran in your terminal: 12 reciters, word-by-word highlighting, 35 translations. Bubble Tea + Fang TUI in Go. • Go
 - **[serenedb-operator](https://github.com/4thel00z/serenedb-operator)** • Go - latest release: [v0.1.0](https://github.com/4thel00z/serenedb-operator/releases/tag/v0.1.0) (2026-09-24)
-- **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v2.2.0](https://github.com/4thel00z/pptxboss/releases/tag/v2.2.0) (2026-09-24)
-- **[ytdown](https://github.com/4thel00z/ytdown)** - Fastest youtube downloader library and cli in the world. Written in rust, with Python bindings. • Rust - latest release: [ytdown-web-v0.7.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-web-v0.7.0) (2026-09-24)
 <!--RECENT_PROJECTS:end-->
