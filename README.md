@@ -34,12 +34,12 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[konan](https://github.com/4thel00z/konan)** - Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust - latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.13.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.13.1) (2026-10-03)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
+- **[konan](https://github.com/4thel00z/konan)** - Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust - latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
 - **[ytdown](https://github.com/4thel00z/ytdown)** - Fastest youtube downloader library and cli in the world. Written in rust, with Python bindings. • Rust - latest release: [ytdown-web-v0.7.0](https://github.com/4thel00z/ytdown/releases/tag/ytdown-web-v0.7.0) (2026-09-24)
 - **[md2html](https://github.com/4thel00z/md2html)** - 📝 Markdown → self‑contained HTML in seconds (Tailwind v4 + DaisyUI themes) • CSS - latest release: [md2html-v0.4.1](https://github.com/4thel00z/md2html/releases/tag/md2html-v0.4.1) (2026-10-06)
 - **[mdview](https://github.com/4thel00z/mdview)** - Fast native Markdown viewer for macOS. Rust + WebKit, ~3 MB, live reload, GFM, syntax highlighting. • Rust
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.13.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.13.1) (2026-10-03)
 - **[homebrew-tap](https://github.com/4thel00z/homebrew-tap)** - Homebrew tap for 4thel00z tools • Ruby
 <!--RECENT_PROJECTS:end-->
