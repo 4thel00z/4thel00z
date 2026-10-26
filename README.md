@@ -34,7 +34,7 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[codeedit](https://github.com/4thel00z/codeedit)** • Rust
+- **[codeedit](https://github.com/4thel00z/codeedit)** • Rust - latest release: [v1.0.0](https://github.com/4thel00z/codeedit/releases/tag/v1.0.0) (2026-10-25)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.15.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.15.1) (2026-10-12)
 - **[konan](https://github.com/4thel00z/konan)** - Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust - latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
