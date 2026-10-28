@@ -34,8 +34,8 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.0](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.0) (2026-10-26)
-- **[codeedit](https://github.com/4thel00z/codeedit)** - Structural code edits for coding agents: a better sed that reads the syntax tree. Rust core, CLI and Python package, 13 languages via tree-sitter. • Rust - latest release: [v1.0.1](https://github.com/4thel00z/codeedit/releases/tag/v1.0.1) (2026-10-26)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [pdfboss-fonts-v2.16.0](https://github.com/4thel00z/pdfboss/releases/tag/pdfboss-fonts-v2.16.0) (2026-10-27)
+- **[codeedit](https://github.com/4thel00z/codeedit)** - Structural code edits for coding agents: a better sed that reads the syntax tree. Rust core, CLI and Python package, 13 languages via tree-sitter. • Rust - latest release: [v1.2.0](https://github.com/4thel00z/codeedit/releases/tag/v1.2.0) (2026-10-27)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[konan](https://github.com/4thel00z/konan)** - Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust - latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
