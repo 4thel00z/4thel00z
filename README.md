@@ -34,8 +34,8 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.1) (2026-10-28)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.1) (2026-10-28)
 - **[aroyo-python](https://github.com/4thel00z/aroyo-python)** - Crash-resumable Parquet streaming to S3 from Python: one multipart upload per file, checkpoints a new process can finish, parallel reads. Rust + PyO3. • Rust - latest release: [v0.1.0](https://github.com/4thel00z/aroyo-python/releases/tag/v0.1.0) (2026-10-28)
 - **[codeedit](https://github.com/4thel00z/codeedit)** - Structural code edits for coding agents: a better sed that reads the syntax tree. Rust core, CLI and Python package, 13 languages via tree-sitter. • Rust - latest release: [v1.2.1](https://github.com/4thel00z/codeedit/releases/tag/v1.2.1) (2026-10-28)
 - **[konan](https://github.com/4thel00z/konan)** - Blazingly fast text chunkers in Rust with pythonic bindings. Rayon-parallel, real async, char-accurate offsets, semantic chunking • Rust - latest release: [v0.4.0](https://github.com/4thel00z/konan/releases/tag/v0.4.0) (2026-07-29)
