@@ -34,8 +34,8 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[gaebboss](https://github.com/4thel00z/gaebboss)** - GAEB DA XML in pure Rust: read tenders and bids, validate, write schema-valid X84, price a tender. One core, a CLI and a Python package. • Rust - latest release: [v0.1.2](https://github.com/4thel00z/gaebboss/releases/tag/v0.1.2) (2026-11-01)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
+- **[gaebboss](https://github.com/4thel00z/gaebboss)** - GAEB DA XML in pure Rust: read tenders and bids, validate, write schema-valid X84, price a tender. One core, a CLI and a Python package. • Rust - latest release: [v0.1.2](https://github.com/4thel00z/gaebboss/releases/tag/v0.1.2) (2026-11-01)
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
 - **[arroyo-python](https://github.com/4thel00z/arroyo-python)** - Crash-resumable Parquet streaming to S3 from Python: one multipart upload per file, checkpoints a new process can finish, parallel reads. Rust + PyO3. • Rust - latest release: [v0.1.2](https://github.com/4thel00z/arroyo-python/releases/tag/v0.1.2) (2026-11-01)
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.1) (2026-10-28)
