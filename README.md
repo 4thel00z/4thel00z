@@ -34,7 +34,7 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.1](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.1) (2026-10-28)
+- **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.2](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.2) (2026-11-13)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
 - **[cadboss](https://github.com/4thel00z/cadboss)** • Rust - latest release: [v0.1.1](https://github.com/4thel00z/cadboss/releases/tag/v0.1.1) (2026-11-05)
