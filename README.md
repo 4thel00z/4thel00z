@@ -34,7 +34,7 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[docboss](https://github.com/4thel00z/docboss)** - Word engine written from scratch in Rust: reads .docx and legacy .doc, extracts text, Markdown, HTML and JSON, renders pages to PNG, writes DOCX, opens encrypted and remote files, checked against ECMA-376 and [MS-DOC] with a Lean ledger. CLI, Python bindings and a terminal explorer. • Rust - latest release: [v0.2.1](https://github.com/4thel00z/docboss/releases/tag/v0.2.1) (2026-11-04)
+- **[docboss](https://github.com/4thel00z/docboss)** - Word engine written from scratch in Rust: reads .docx and legacy .doc, extracts text, Markdown, HTML and JSON, renders pages to PNG, writes DOCX, opens encrypted and remote files, checked against ECMA-376 and [MS-DOC] with a Lean ledger. CLI, Python bindings and a terminal explorer. • Rust - latest release: [v0.3.0](https://github.com/4thel00z/docboss/releases/tag/v0.3.0) (2026-11-20)
 - **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.3.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.3.2) (2026-09-24)
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.2](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.2) (2026-11-13)
