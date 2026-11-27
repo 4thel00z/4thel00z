@@ -34,9 +34,9 @@ I ship products end-to-end: agents, retrieval, evals, and the backends and infra
 
 <!--RECENT_PROJECTS:start-->
 
-- **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.6.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.6.2) (2026-11-24)
-- **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
 - **[pdfboss](https://github.com/4thel00z/pdfboss)** - From-scratch Rust PDF toolkit for Python: fast page rendering and text extraction via PyO3. Benchmarked faster than mainstream Python PDF libraries • Rust - latest release: [v2.16.2](https://github.com/4thel00z/pdfboss/releases/tag/v2.16.2) (2026-11-13)
+- **[4thel00z](https://github.com/4thel00z/4thel00z)** - My github frontpage.
+- **[qdrant-operator](https://github.com/4thel00z/qdrant-operator)** - Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores • Python - latest release: [v0.6.2](https://github.com/4thel00z/qdrant-operator/releases/tag/v0.6.2) (2026-11-24)
 - **[pptxboss](https://github.com/4thel00z/pptxboss)** - PowerPoint engine written from scratch in Rust: reads .pptx and legacy .ppt, extracts text, notes, tables, charts and images, renders Markdown, verifies against ECMA-376, creates decks. CLI and Python bindings. • Rust - latest release: [v2.4.0](https://github.com/4thel00z/pptxboss/releases/tag/v2.4.0) (2026-11-23)
 - **[docboss](https://github.com/4thel00z/docboss)** - Word engine written from scratch in Rust: reads .docx and legacy .doc, extracts text, Markdown, HTML and JSON, renders pages to PNG, writes DOCX, opens encrypted and remote files, checked against ECMA-376 and [MS-DOC] with a Lean ledger. CLI, Python bindings and a terminal explorer. • Rust - latest release: [v0.3.0](https://github.com/4thel00z/docboss/releases/tag/v0.3.0) (2026-11-20)
 - **[cadboss](https://github.com/4thel00z/cadboss)** • Rust - latest release: [v0.1.1](https://github.com/4thel00z/cadboss/releases/tag/v0.1.1) (2026-11-05)
